@@ -1,5 +1,5 @@
 
-# Analise do Dataset [TMDB 5000 Movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+# Análise do Dataset [TMDB 5000 Movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 Utilizamos VSCode combinado com a [extensão oficial do Jupyter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 
@@ -7,9 +7,9 @@ O Python utilizado é o Pyhon3 padrão do Ubuntu 20.04 LTS.
 
 ## Acessando o ambiente
 ### Scripts bash
-Criamos os seguintes scripts, colocados no seu .bashrc ou equivalente para permitir a criação e acesso de [virtualenv](https://virtualenv.pypa.io/en/latest/)'s.
+Criamos os seguintes scripts, colocados no seu .bashrc, ou equivalente, para permitir a criação e acesso de [virtualenv](https://virtualenv.pypa.io/en/latest/)'s.
 
-```python
+```bash
 # Function to create and activate a virtual environment in ~/.virtualenvs
 mkvenv() {
   if [ -z "$1" ]; then
