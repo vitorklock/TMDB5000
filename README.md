@@ -69,14 +69,3 @@ Saindo do ambiente
 ```bash
 $ deactivate
 ```
-
-## TODO
-
-### Objetos
-Cada filme um objeto
-
-### Banco
-Salvar dados em banco e buscar para o objeto (utilizando esse nos graficos)
-
-### Documento
-Colocar no word como tratamos os dados e como foram feitas as classes
